@@ -16,3 +16,4 @@ Projekt przedstawia profesjonalną stronę internetową warsztatu samochodowego 
 * **Responsywność:** Strona dostosowana do urządzeń mobilnych.
 
 ## Link do strony (GitHub Pages)
+ https://kacper615.github.io/Auto-serwis/
